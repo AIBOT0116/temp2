@@ -20,7 +20,7 @@ if (!$get) {
 }
 
 // Build the remote URL
-$mpdUrl = 'https://sonypartnersdaimenew.akamaized.net/' . $get;
+$mpdUrl = 'https://dai.google.com/' . $get;
 
 // Set headers for fetching remote content
 $mpdheads = [
