@@ -20,7 +20,7 @@ if (!$get) {
 }
 
 // Build the remote URL
-$mpdUrl = 'https://dai.google.com/' . $get;
+$mpdUrl = 'https://in-mc-fdlive.fancode.com/' . $get;
 
 // Set headers for fetching remote content
 $mpdheads = [
