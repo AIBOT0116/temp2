@@ -20,7 +20,7 @@ if (!$get) {
 }
 
 // Build the remote URL
-$mpdUrl = 'https://in-mc-fdlive.fancode.com/' . $get;
+$mpdUrl = 'https://tataplay.slivcdn.com/' . $get;
 
 // Set headers for fetching remote content
 $mpdheads = [
